@@ -11,8 +11,8 @@ public class StudentRecord {
         System.out.println("Class:" + studentclass);
         System.out.println("Roll No:" + studentrollno);
         System.out.println("Student ID:" + studentId);
-        System.out.println("Total Marks:" + totalmarks + "/1000");
         System.out.println("Physics:" + physicsmarks);
+        System.out.println("Total Marks:" + totalmarks + "/1000");
         System.out.println("Average:" + averagepercentage + "%");
         System.out.println("Grade:" + grade);
         System.out.println("Passed:" + passedexam);
@@ -24,3 +24,4 @@ public class StudentRecord {
         System.out.println("Final Grade: " + grade);
     }
 }
+
